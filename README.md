@@ -1,3 +1,8 @@
+### Discord Username (pseudocode)
+
+```rust
+let discord_username = "MasterYarik#6628";
+
 <!-- # ⭕ Tic-Tac-Toe -->
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
